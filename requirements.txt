@@ -1,7 +1,9 @@
-fitz
-pdfplumber
-pytesseract
 streamlit
+openai
 transformers
-spacy
-frontend
+pdf2image
+pytesseract
+python-dotenv
+pytesseract
+poppler
+transformers
