@@ -1,0 +1,7 @@
+fitz
+pdfplumber
+pytesseract
+streamlit
+transformers
+spacy
+frontend
